@@ -1,0 +1,1 @@
+Main class is GalagaActivity.java in the controller package.

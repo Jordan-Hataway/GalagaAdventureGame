@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GalagaAdventureGame</string>
+    <string name="start_button">Start Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title">Galaga\n Adventure Game</string>
+    <string name="debug">Nothing Yet</string>
+
+</resources>
